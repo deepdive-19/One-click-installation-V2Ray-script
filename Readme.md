@@ -64,6 +64,7 @@ v3 版本，更加好用了。新年快乐！
 **我们推荐使用 搬瓦工VPS，稳定，快速，针对中国线路专门优化，无须担心跑路，服务好，并且支持退款。**
 
 使用 root 用户输入下面命令安装或卸载
+`bash <(curl -s -L https://raw.githubusercontent.com/deepdive-19/One-click-installation-V2Ray-script/main/install.sh?token=ARV54R3X2JAAHU6VTMUKZ3K7XKOKC)`
 
 
 
