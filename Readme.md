@@ -61,8 +61,8 @@ v3 版本，更加好用了。新年快乐！
 推荐使用 Debian 9 系统，脚本会自动启用 BBR 优化。
 备注：不推荐使用 Debian 8 系统，因为 Caddy 申请证书可能会出现一些莫名其妙的问题。
 
-**我们推荐使用 [搬瓦工VPS](https://bwh88.net/cart.php?gid=1)，稳定，快速，针对中国线路专门优化，无须担心跑路，服务好，并且支持退款。**  
-在这里可以找到 [搬瓦工 VPS 套餐大全](https://233vps.com/post/bandwagonhost-plans/) ，优惠码在这里： [搬瓦工 VPS 优惠码](https://233vps.com/post/bandwagonhost-coupon-code/)
+**我们推荐使用 [搬瓦工VPS](https://bandwagonhost.com/)，稳定，快速，针对中国线路专门优化，无须担心跑路，服务好，并且支持退款。**  
+
 
 使用 root 用户输入下面命令安装或卸载
 ```
